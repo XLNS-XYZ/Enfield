@@ -1,4 +1,4 @@
-# Enfield - Development Project Outline
+# Hackney - Development Project Outline
 This document should not be shared and should be kept confidencial.
 
 This project outlines the basis of what the objectives and issues that the development process of Enfield may encounter. It is important to address these issues in a provocative manner so that **appropriate** forms of assets are created, preventing the waste of time.
