@@ -56,7 +56,7 @@ Do not distrubute any assets or make it public unless permission is given. Risk 
 
 It is highly reccomended to not mix tasks within developers in terms of catagory; i.e. One person focuses on road creation, and one person focuses on exterior building creation.
 
-Mixing these tasks can causes a large inconsistancy.
+Mixing these tasks can cause a large inconsistancy.
 
 ---
 
