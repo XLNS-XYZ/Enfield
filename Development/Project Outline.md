@@ -1,23 +1,23 @@
 # Development Project Outline
 This document should not be shared and should be kept confidencial.
 
-This project outlines the basis of what the objectives and issues that the development process of Enfield may encounter. It is important to address these issues in a provocative manner so that **appropriate** forms of assets are created, preventing the waste of time.
+This project outlines the basis of what the objectives and issues that the development process of Hackney may encounter. It is important to address these issues in a provocative manner so that **appropriate** forms of assets are created, preventing the waste of time.
 
 Places
 ---
-During the Enfield development, Three seperate places will be created:
+During the Hackney development, Three seperate places will be created:
 
-* **Enfield Public Release Server**
-* **Enfield Alpha Testing Server**
-* **Enfield Asset Testing Server**
+* **Hackney Public Release Server**
+* **Hackney Alpha Testing Server**
+* **Hackney Asset Testing Server**
 
 It is important to not directly edit in the Public Release server. Changes to the game should be made on the Alpha server and **satisfied**, be published towards the Public Release Server.
 
-Enfield Asset Testing Server will be made for checking external assets, this documentation will cover that process.
+Hackney Asset Testing Server will be made for checking external assets, this documentation will cover that process.
 
 Error Free Environment
 ---
-In order to save time during the development process, Enfield may use previous assets of previous games. Each individual asset must be tested for the following:
+In order to save time during the development process, Hackney may use previous assets of previous games. Each individual asset must be tested for the following:
 
 * Internal Errors (Script Errors, Efficacy),
 * Appropriate Part Count,
